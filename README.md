@@ -1,4 +1,4 @@
-# First, Special thanks "Lennard" for help to understand HDRP
+# First, Special thanks "Lennard" for help me to understand HDRP
 # Contact: pabloromeroanimator@gmail.com
 
 

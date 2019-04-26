@@ -1,4 +1,4 @@
-# First, Special thanks "Lennart from (Awesome Technologies)" for help me to understand HDRP
+# First, Special thanks "Lennart and Keijiro Takahashi" for help me to understand HDRP
 # Contact: pabloromeroanimator@gmail.com
 
 
